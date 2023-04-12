@@ -2,9 +2,9 @@
 
 ## Descrição
 
-A LifeSim Engine é uma engine de jogo desenvolvida em Python que tem como objetivo criar jogos de simulação de vida. A engine utiliza técnicas de inteligência artificial avançada para criar personagens e eventos dinâmicos, além de oferecer suporte a gráficos 2D, som, física e outros recursos.
+A LifeSim Engine é uma engine de jogo desenvolvida em Python que tem como objetivo criar jogos de simulação de vida. A engine utiliza técnicas de inteligência artificial avançada para criar personagens e eventos dinâmicos, além de oferecer suporte a gráficos 2D, 3D, som, física e outros recursos.
 
-A engine é altamente modular e extensível, permitindo que os desenvolvedores personalizem e adicionem novas funcionalidades facilmente. A LifeSim Engine foi testada em diversas plataformas e dispositivos e oferece uma experiência de jogo consistente e de alta qualidade.
+A engine está sendo projetada para ser altamente modular e extensível, permitindo que os desenvolvedores personalizem e adicionem novas funcionalidades facilmente. A LifeSim Engine será testada em diversas plataformas e dispositivos de modo a oferecer uma experiência de jogo consistente e de alta qualidade.
 
 ## Como usar
 
@@ -17,7 +17,7 @@ Para utilizar a LifeSim Engine, siga as instruções abaixo:
 
 ## Documentação
 
-A documentação completa da LifeSim Engine está disponível em [docs.lifesimengine.com](https://docs.lifesimengine.com). A documentação inclui informações sobre como utilizar a API da engine, exemplos de código e referência das classes e métodos disponíveis.
+A documentação completa da LifeSim Engine estará disponível em breve: [docs.lifesimengine](#). A documentação inclui informações sobre como utilizar a API da engine, exemplos de código e referência das classes e métodos disponíveis.
 
 ## Exemplos
 
